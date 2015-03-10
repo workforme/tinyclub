@@ -1,0 +1,4 @@
+http://0.0.0.0:8080/
+0.0 (1): select * from activity
+222.129.50.209:7255 - - [09/Sep/2014 23:30:12] "HTTP/1.1 GET /nearby_activity" - 200 OK
+222.129.50.209:7255 - - [09/Sep/2014 23:30:13] "HTTP/1.1 GET /favicon.ico" - 404 Not Found

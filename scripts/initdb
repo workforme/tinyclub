@@ -1,0 +1,2 @@
+mysql -uroot -pqwe123root <initdb.sql
+rm -rf ../resource/activity/*
